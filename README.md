@@ -6,6 +6,8 @@ I am a Data Engineering student from UTM.
 
 i am a curious human being that loves to learn and discover new things.
 i have  a passion for problem-solving, logical thinking, and staying updated on the latest technological advancements.
+also, I am very passionate whenever I get to work in teams. 
+In IT, many projects are complex and require the collaboration of individuals with diverse skills. My enthusiasm for teamwork can contribute to better communication, coordination, and synergy among team members, ultimately leading to the successful completion of projects.
 
 
 * 🌍  I'm based in UTM JB
@@ -15,9 +17,9 @@ i have  a passion for problem-solving, logical thinking, and staying updated on 
 * www.linkedin.com/in/syarifah-dania-232661296
 * 
 ### Education
-* I did my secondary education in SMK Seri Pulai Perdana.
-* I took computer science in Kolej Matrikulasi Johor.
-* I am currently a first year Data Engineering student.
+* I did my secondary education in SMK Seri Pulai Perdana(2017-2021).
+* I took computer science in Kolej Matrikulasi Johor(2022-2023).
+* I am currently a first year Data Engineering student(2023-present).
   
 
 ### Skills
