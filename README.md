@@ -9,12 +9,15 @@ i have  a passion for problem-solving, logical thinking, and staying updated on 
 
 
 * 🌍  I'm based in UTM JB
-* I did my secondary education in SMK Seri Pulai Perdana.
-* I took computer science in Kolej Matrikulasi Johor.
+
 * ✉️  You can contact me at [syarifahdania@graduate.utm.my](mailto:syarifahdania@graduate.utm.my)
 * You can also find me on LinkedIn
 * www.linkedin.com/in/syarifah-dania-232661296
 * 
+### Education
+* I did my secondary education in SMK Seri Pulai Perdana.
+* I took computer science in Kolej Matrikulasi Johor.
+* I am currently a first year Data Engineering student.
 
 ### Skills
 
