@@ -18,6 +18,7 @@ i have  a passion for problem-solving, logical thinking, and staying updated on 
 * I did my secondary education in SMK Seri Pulai Perdana.
 * I took computer science in Kolej Matrikulasi Johor.
 * I am currently a first year Data Engineering student.
+  
 
 ### Skills
 
