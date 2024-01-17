@@ -9,9 +9,6 @@ i have  a passion for problem-solving, logical thinking, and staying updated on 
 
 
 * 🌍  I'm based in UTM JB
-
-* EDUCATTION
-* ---------------------------------------
 * I did my secondary education in SMK Seri Pulai Perdana.
 * I took computer science in Kolej Matrikulasi Johor.
 * ✉️  You can contact me at [syarifahdania@graduate.utm.my](mailto:syarifahdania@graduate.utm.my)
