@@ -5,10 +5,13 @@ I am a Data Engineering student from UTM.
 -----------------------------------------
 
 i am a curious human being that loves to learn and discover new things.
+i have  a passion for problem-solving, logical thinking, and staying updated on the latest technological advancements.
+
 
 * 🌍  I'm based in UTM JB
 * ✉️  You can contact me at [syarifahdania@graduate.utm.my](mailto:syarifahdania@graduate.utm.my)
-* 
+* You can also find me on LinkedIn
+* www.linkedin.com/in/syarifah-dania-232661296
 
 ### Skills
 
