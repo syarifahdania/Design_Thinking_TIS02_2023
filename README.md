@@ -8,6 +8,7 @@ i am a curious human being that loves to learn and discover new things.
 
 * 🌍  I'm based in UTM JB
 * ✉️  You can contact me at [syarifahdania@graduate.utm.my](mailto:syarifahdania@graduate.utm.my)
+* 
 
 ### Skills
 
